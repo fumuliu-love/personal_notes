@@ -56,6 +56,12 @@ git push -u origin master
 git pull --rebase origin master
 ```
 
+添加 ssh 秘钥 
+
+```
+ssh -T git@github.com
+```
+
 #### 列出所有本地分支
 
 ```
