@@ -46,8 +46,16 @@ git remote add origin https://git.coding.net/zhangguoGit/project7.git
 git push -u origin master
 ```
 
+如果出现以下错误提示：
+
+![image-20200923140625171](img/image-20200923140625171.png)
+
+可以通过如下命令进行代码合并【注：pull=fetch+merge]
+
+git pull --rebase origin master
 
 #### 列出所有本地分支
+
 ```
 $ git branch
 ```
