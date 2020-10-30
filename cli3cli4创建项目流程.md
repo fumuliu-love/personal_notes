@@ -4,6 +4,12 @@
 vue create <Project Name>  //文件名 不支持驼峰 （含大写字母）
 ```
 
+![image-20201030104001864](X:\个人文件\Adiary\img\image-20201030104001864.png)
+
+把 .vuerc 文件中的 userTaobaoRegistry 值改成 true 就行
+
+
+
 ![image-20201030094054801](X:\个人文件\Adiary\img\image-20201030094054801.png)
 
 default 是使用默认配置
@@ -41,3 +47,6 @@ Manually select features 是自定义配置　
 ​    询问 是否把本次选择的配置保存，以供下次使用？我就暂且不保存了
 
    ![img](X:\个人文件\Adiary\img\1460021-20200814113144299-767604884.png)
+
+
+
